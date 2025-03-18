@@ -1,1 +1,3 @@
-// js code 
+// js code
+
+console.log("hi");
